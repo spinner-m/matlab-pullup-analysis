@@ -1,0 +1,10 @@
+# MATLAB autosave and editor backups
+*.asv
+*.m~
+*.autosave
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+__MACOSX/
